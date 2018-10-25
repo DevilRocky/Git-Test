@@ -10,5 +10,6 @@ class Main {
         System.out.println("Hello " + name);
         scan.close();
         // scanner is not working fix it
+        // hello world
     }
 }
